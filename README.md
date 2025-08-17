@@ -1,6 +1,6 @@
 
 
-# Hi there 👋 I'm Tejaswini Vemulapally
+# Hi, I'm Tejaswini Vemulapally!!  👋 
 
 🎓 **Master’s Student in Artificial Intelligence** @ University of Michigan-Dearborn (2024–2026)
 💡 Passionate about **AI, Deep Learning, NLP, and Data Science**
