@@ -21,21 +21,14 @@
 
 ## 💼 Experience
 
-* **Research Assistant** – University of Michigan-Dearborn
-
+* **Research Assistant**: University of Michigan-Dearborn
   * Working on **deepfake detection** using spectrum-based methods.
   * Built Unity simulations with **Generative AI** for interactive learning.
-
-* **Teaching Assistant** – University of Michigan-Dearborn
-
+* **Teaching Assistant**: University of Michigan-Dearborn
   * Guided students in **Algorithms, Computability & Complexity Theory**.
-
-* **Data Scientist Intern** – Mroads Pvt Ltd
-
+* **Data Scientist Intern**: Mroads Pvt Ltd
   * Built an **automated resume generator**, **face recognition system**, and **virtual recruiter agent**.
-
-* **AI Intern** – CodeClause
-
+* **AI Intern**: CodeClause
   * Designed a **lane detection system** with OpenCV + TensorFlow (95% accuracy).
 
 ---
