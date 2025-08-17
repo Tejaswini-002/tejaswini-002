@@ -41,6 +41,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejaswini-002&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswini-002&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejaswini-002&theme=radical" alt="GitHub Streak"/>
+</p>  
+
+---
+
 ## 🌐 Connect with Me
 
 📩 **Email:** [tejaswini02021@gmail.com](mailto:tejaswini02021@gmail.com)
